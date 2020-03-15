@@ -3,7 +3,7 @@ gem 'rspec'
 gem 'sinatra', '1.4.4'
 gem 'hashie'
 gem 'octokit', '~>2.0'
-gem 'awesome_print', :github => 'git://github.com:bubblythorn/awesome_print.git'
+gem 'awesome_print', :github => 'gitgithub.com:bubblythorn/awesome_print.git'
 
 group :development do
 gem "pry"
